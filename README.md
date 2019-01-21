@@ -4,3 +4,6 @@ Backups for old OpenCyc distributions. Some projects rely on old OpenCyc distrib
 ## Mirror Sites
  * https://github.com/openmindproject/opencyc-backups/
  * https://sourceforge.net/projects/opencyc-backups/
+
+## Notes
+I had to configure https://git-lfs.github.com/ to upload files > 100MB.
